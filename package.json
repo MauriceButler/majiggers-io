@@ -1,0 +1,22 @@
+{
+  "name": "majiggers-io",
+  "version": "1.0.0",
+  "description": "Hosted Majigger processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MauriceButler/majiggers-io.git"
+  },
+  "keywords": [
+    "majigger"
+  ],
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/majiggers-io/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/majiggers-io"
+}

@@ -1,4 +1,3 @@
-majiggers-io
-============
+# majiggers-io
 
 Hosted Majigger processing
